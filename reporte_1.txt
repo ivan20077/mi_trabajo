@@ -1,0 +1,5 @@
+<inicio>
+1. ontener datos de fuente de origen
+2. obtener ventas del dia
+3. mostrar detalle de ventas de dia
+<fin>
