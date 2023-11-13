@@ -1,0 +1,6 @@
+<>iniico
+1.fecha de fabrica del equipo
+2.fecha de compra por la emrpesa
+3.años de garantia
+4.primeras fallas 
+<>fin
