@@ -2,5 +2,7 @@
 1.fecha de fabrica del equipo
 2.fecha de compra por la emrpesa
 3.años de garantia
+3.1 repuestos locales 
+3.2 repuestos extranjeros
 4.primeras fallas 
 <>fin
